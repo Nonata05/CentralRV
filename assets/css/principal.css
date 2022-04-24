@@ -129,10 +129,9 @@ main{
 }
 
 #test{
-    background-color: blueviolet;
+    padding-left: 15px;
     width: calc(100% - 830px);
     height: 450px;
-
 }
 
 
