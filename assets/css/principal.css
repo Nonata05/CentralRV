@@ -86,6 +86,7 @@ main{
 .linha-grossa{
    border: 1px solid #7d0b00;
    margin:0px 15px 22px 15px;
+   
 }
 
 .linha-fina{
@@ -124,7 +125,7 @@ main{
 
 .youtube{
     width: 800px;
-    height: 450px;
+    height: 500px;
     
 }
 
