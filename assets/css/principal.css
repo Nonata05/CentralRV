@@ -135,4 +135,25 @@ main{
     height: 450px;
 }
 
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
 
+.tabela{
+    display: flex;
+    justify-content: center;
+    padding: 5px 0px;
+}
+
+table, th, tr, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 5px 15px;
+    
+}
+table th{
+    background-color: #7d0b00;
+    color: white;
+}
